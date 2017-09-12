@@ -13,6 +13,8 @@
 		1423C51D1F679ED80033AE91 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1423C51B1F679ED80033AE91 /* Main.storyboard */; };
 		1423C51F1F679ED80033AE91 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1423C51E1F679ED80033AE91 /* Assets.xcassets */; };
 		1423C5221F679ED80033AE91 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1423C5201F679ED80033AE91 /* LaunchScreen.storyboard */; };
+		1423C52B1F679F280033AE91 /* SuspendImgV.m in Sources */ = {isa = PBXBuildFile; fileRef = 1423C52A1F679F280033AE91 /* SuspendImgV.m */; };
+		1423C52D1F67A6480033AE91 /* lufei.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1423C52C1F67A6480033AE91 /* lufei.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +28,9 @@
 		1423C51E1F679ED80033AE91 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1423C5211F679ED80033AE91 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1423C5231F679ED80033AE91 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1423C5291F679F280033AE91 /* SuspendImgV.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SuspendImgV.h; sourceTree = "<group>"; };
+		1423C52A1F679F280033AE91 /* SuspendImgV.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SuspendImgV.m; sourceTree = "<group>"; };
+		1423C52C1F67A6480033AE91 /* lufei.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = lufei.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +67,9 @@
 				1423C5161F679ED80033AE91 /* AppDelegate.m */,
 				1423C5181F679ED80033AE91 /* ViewController.h */,
 				1423C5191F679ED80033AE91 /* ViewController.m */,
+				1423C5291F679F280033AE91 /* SuspendImgV.h */,
+				1423C52A1F679F280033AE91 /* SuspendImgV.m */,
+				1423C52C1F67A6480033AE91 /* lufei.jpg */,
 				1423C51B1F679ED80033AE91 /* Main.storyboard */,
 				1423C51E1F679ED80033AE91 /* Assets.xcassets */,
 				1423C5201F679ED80033AE91 /* LaunchScreen.storyboard */,
@@ -138,6 +146,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1423C5221F679ED80033AE91 /* LaunchScreen.storyboard in Resources */,
+				1423C52D1F67A6480033AE91 /* lufei.jpg in Resources */,
 				1423C51F1F679ED80033AE91 /* Assets.xcassets in Resources */,
 				1423C51D1F679ED80033AE91 /* Main.storyboard in Resources */,
 			);
@@ -151,6 +160,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1423C51A1F679ED80033AE91 /* ViewController.m in Sources */,
+				1423C52B1F679F280033AE91 /* SuspendImgV.m in Sources */,
 				1423C5171F679ED80033AE91 /* AppDelegate.m in Sources */,
 				1423C5141F679ED80033AE91 /* main.m in Sources */,
 			);
